@@ -13,6 +13,9 @@ Il modello di classificazione scelto è il RandomForestClassifier e per ottimizz
 Grazie all'implementazione di questo modello di classificazione, siamo stati in grado di ottenere previsioni accurate per ciascuna variante nel dataset.
 
 ## [Project 3: World Happiness Report - The Human Freedom Index](https://github.com/danilorusso08/World_Happiness__Freedom/blob/main/DaniloRussoDataVis.ipynb)
+In questo progetto, ci concentreremo sull'analisi dei fattori principali che influenzano il livello di felicità in uno stato, utilizzando il World Happiness Report. Inoltre, utilizzeremo i dati forniti dal Human Freedom Index per valutare il grado di libertà esistente nel mondo.<br>
+Per questo, combineremo e manipoleremo i diversi dataset, al fine di identificare le correlazioni tra felicità e libertà.<br><br>
+Per questo progetto, faremo uso di diverse librerie, tra cui pandas, matplotlib, seaborn e plotly.
 
 ## [Project 4: File Organizer](https://github.com/danilorusso08/File_Organizer)
 
