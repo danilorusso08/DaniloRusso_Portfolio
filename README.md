@@ -10,3 +10,5 @@ A questo punto utilizzeremo due strade per l'individuazione del modello vincente
 # [Project 3: World Happiness Report - The Human Freedom Index](https://github.com/danilorusso08/World_Happiness__Freedom/blob/main/DaniloRussoDataVis.ipynb)
 
 # [Project 4: File Organizer](https://github.com/danilorusso08/File_Organizer)
+
+theme: minima
