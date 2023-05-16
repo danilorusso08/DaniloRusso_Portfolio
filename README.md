@@ -11,4 +11,6 @@ A questo punto utilizzeremo due strade per l'individuazione del modello vincente
 
 # [Project 4: File Organizer](https://github.com/danilorusso08/File_Organizer)
 
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
