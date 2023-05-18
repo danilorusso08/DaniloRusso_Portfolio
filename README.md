@@ -1,4 +1,8 @@
 # Data Science Portfolio - Danilo Russo
+Questo Portfolio contiene tutti i miei progetti di Data Science e Data Analysis, svolti durante il master in Data Science di Start2Impact più altri progetti personali svolti con lo scopo di migliorare le mie conoscenze e capacità.
+
+- **Email**: [danilo08russo@gmail.com](danilo08russo@gmail.com)
+- **LinkedIn**: [linkedin.com/DaniloRusso](https://www.linkedin.com/in/danilo-russo95/)
 
 ## [Project 1: Analisi Acqua Potabile](https://github.com/danilorusso08/Analisi_Acqua_Potabile/blob/main/DaniloRusso_Water.ipynb)
 In questo progetto, l'obbiettivo sarà quello di costruire un modello predittivo per determinare la potabilità dell'acqua in base alle sue caratteristiche chimiche.<br><br>
