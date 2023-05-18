@@ -5,7 +5,7 @@ Questo Portfolio contiene tutti i miei progetti di Data Science e Data Analysis,
 - **LinkedIn**: [linkedin.com/danilo-russo95](https://www.linkedin.com/in/danilo-russo95/)
 
 ## Progetti
-## [Project 1: Analisi Acqua Potabile](https://github.com/danilorusso08/Analisi_Acqua_Potabile/blob/main/DaniloRusso_Water.ipynb)
+<img align="left" width="250" height="150" src="https://github.com/danilo08russo/Portfolio/blob/master/Images/acquapotabile.jpg">**[Project 1: Analisi Acqua Potabile]**(https://github.com/danilorusso08/Analisi_Acqua_Potabile/blob/main/DaniloRusso_Water.ipynb)
 In questo progetto, l'obiettivo sarà quello di costruire un modello predittivo per determinare la potabilità dell'acqua in base alle sue caratteristiche chimiche.<br><br>
 Nell'analisi dei dati, è risultato uno sbilanciamento della classe target, per cui è stato adottato lo *stratified sampling* per mantenere la distribuzione dei dati, e una bassa correlazione tra le features e la classe target.<br>
 Sono stati testati diversi modelli di classificazione per l'individuazione del migliore utilizzando due approcci, nel primo caso abbiamo utilizzato tutte le features a disposizione (Modello1), mentre nel secondo caso abbiamo utilizzato le quattro migliori features individuate tramite il chi quadro test (Modello2), dopo aver ottimizzato gli iperparametri dei modelli tramite *GridSearchCV*, il *GradientBoostingClassifier* che utilizza quattro feature è emerso come il migliore.<br>
