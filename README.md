@@ -39,3 +39,9 @@ Per questo progetto, faremo uso di diverse librerie, tra cui pandas, matplotlib,
 <img align="left" width="250" height="150" src="Images/cartella.webp">**[File Organizer](https://github.com/danilorusso08/File_Organizer)**
 
 Script Python che iteri in ordine alfabetico sui file della cartella files e, a seconda del tipo (audio, documento, immagine), li sposti nella relativa sottocartella. Se la sottocartella non esiste, lo script dovrà crearla automaticamente.
+
+
+## Competenze
+
+- **Linguaggi**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, Seaborn, Plotly), SQL, Javascript
+- **Tools**: Git, MS Exce, Officel
