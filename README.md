@@ -5,7 +5,6 @@ Questo Portfolio contiene tutti i miei progetti di Data Science e Data Analysis,
 - **LinkedIn**: [linkedin.com/danilo-russo95](https://www.linkedin.com/in/danilo-russo95/)
 
 ## Progetti
-<div style="display: flex; align-items: center;">
   <img style="float: left; margin-right: 20px;" width="200" height="200" src="Images/acquapotabile.jpg">
   <div>
     <a href="https://github.com/danilorusso08/Analisi_Acqua_Potabile/blob/main/DaniloRusso_Water.ipynb"><strong>Project 1: Analisi Acqua Potabile</strong></a><br><br>
@@ -13,7 +12,6 @@ Questo Portfolio contiene tutti i miei progetti di Data Science e Data Analysis,
     Nell'analisi dei dati, è risultato uno sbilanciamento della classe target, per cui è stato adottato lo <em>stratified sampling</em> per mantenere la distribuzione dei dati, e una bassa correlazione tra le features e la classe target.<br>
     Sono stati testati diversi modelli di classificazione per l'individuazione del migliore utilizzando due approcci, nel primo caso abbiamo utilizzato tutte le features a disposizione (Modello1), mentre nel secondo caso abbiamo...
   </div>
-</div>
 
 
 ## [Project 2: Wine](https://github.com/danilorusso08/Wine/blob/main/DaniloRussoMLP.ipynb)
