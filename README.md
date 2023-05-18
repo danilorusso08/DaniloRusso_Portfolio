@@ -17,7 +17,8 @@ migliori features individuate tramite il chi quadro test (Modello2), dopo aver o
 
 
 
-## [Project 2: Wine](https://github.com/danilorusso08/Wine/blob/main/DaniloRussoMLP.ipynb)
+<img align="left" width="250" height="150" src="Images/Wine.jpg">**[Wine](https://github.com/danilorusso08/Wine)**
+
 Nel progetto, abbiamo costruito un modello di classificazione per prevedere il produttore di vino tra tre produttori diversi, basandoci sulle caratteristiche chimiche del vino.<br><br>
 Prima di costruire il modello, abbiamo effettuato un'analisi dei dati per comprendere le caratteristiche del dataset. In particolare, abbiamo visualizzato le distribuzioni delle feature e le correlazioni tra di esse.<br>
 Il modello di classificazione scelto è il RandomForestClassifier e per ottimizzarne le prestazioni, abbiamo eseguito il tuning degli iperparametri tramite la tecnica di GridSearchCV.<br><br>
