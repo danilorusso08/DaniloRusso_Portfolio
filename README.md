@@ -34,5 +34,8 @@ In questo progetto, ci concentreremo sull'analisi dei fattori principali che inf
 Per questo, combineremo e manipoleremo i diversi dataset, al fine di identificare le correlazioni tra felicità e libertà.<br><br>
 Per questo progetto, faremo uso di diverse librerie, tra cui pandas, matplotlib, seaborn e plotly.<br>
 
-## [Project 4: File Organizer](https://github.com/danilorusso08/File_Organizer)
+#
+
+<img align="left" width="250" height="150" src="Images/Employee_happiness.webp">**digital-filing.jpg[File Organizer](https://github.com/danilorusso08/File_Organizer)**
+
 Script Python che iteri in ordine alfabetico sui file della cartella files e, a seconda del tipo (audio, documento, immagine), li sposti nella relativa sottocartella. Se la sottocartella non esiste, lo script dovrà crearla automaticamente.
