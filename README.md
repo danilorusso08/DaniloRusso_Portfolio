@@ -5,7 +5,7 @@ Questo Portfolio contiene tutti i miei progetti di Data Science e Data Analysis,
 - **LinkedIn**: [linkedin.com/danilo-russo95](https://www.linkedin.com/in/danilo-russo95/)
 
 ## Progetti
-<img align="left" width="250" height="150" src="Images/acqua2.jpg">[Analisi Acqua Potabile]
+<img align="left" width="250" height="150" src="Images/acqua2.jpg">[Analisi Acqua Potabile](https://github.com/danilorusso08/Analisi_Acqua_Potabile)
 In questo progetto, l'obbiettivo sarà quello di costruire un modello predittivo per determinare la potabilità dell'acqua in base alle sue caratteristiche chimiche.
 
 Nell'analisi dei dati, è risultato uno sbilanciamento della classe target, per cui è stato adottato lo stratified sampling per mantenere la distribuzione dei dati, e una bassa correlazione tra le features e la classe target.
