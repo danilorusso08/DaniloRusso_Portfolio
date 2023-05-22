@@ -14,7 +14,7 @@ Abbiamo testato diversi algoritmi di classificazione, *Logistic Regression, Rand
 
 <a href="https://github.com/danilorusso08/Wine"><img align="left" width="250" height="150" src="Images/wine2.jpg"></a>**[Chi produce il Vino?](https://github.com/danilorusso08/Wine)**
 
-L'obiettivo di questo progetto è costruire un modello di classificazione in grado di prevedere il produttore del vino, basandoci sulle sue caratteristiche chimiche.<br>
+L'obiettivo di questo progetto è costruire un modello in grado di classificare un vino rispetto al produttore, basandoci sulle sue caratteristiche chimiche.<br>
 Come modello di classificazione, è stato utilizzato il *Random Forest*, ottimizzando gli iperparametri attraverso la tecnica di GridSearchCV, ottenendo ottimi risultati.
 
 #
