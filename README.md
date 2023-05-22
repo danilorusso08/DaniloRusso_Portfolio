@@ -16,7 +16,7 @@ Abbiamo applicato diversi algoritmi di classificazione, come *Logistic Regressio
 
 L'obiettivo di questo progetto è costruire un modello di classificazione in grado di prevedere il produttore del vino, basandosi sulle sue caratteristiche chimiche.<br>
 Prima di costruire il modello sono state esaminate le distribuzioni delle features e le correlazioni tra di esse.
-Come modello di classificazione, è stato utilizzato il *Random Forest*, ottimizzando gli iperparametri attraverso la tecnica di GridSearchCV, ottenendo così ottimi risultati.
+Come modello di classificazione, è stato utilizzato il *Random Forest*, ottimizzando gli iperparametri attraverso la tecnica di GridSearchCV, ottenendo ottimi risultati.
 
 #
 
