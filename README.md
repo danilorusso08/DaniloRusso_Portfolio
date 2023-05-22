@@ -15,8 +15,8 @@ Abbiamo applicato diversi algoritmi di classificazione, come *Logistic Regressio
 <img align="left" width="250" height="150" src="Images/wine2.jpg">**[Chi produce il Vino?](https://github.com/danilorusso08/Wine)**
 
 L'obiettivo di questo progetto è costruire un modello di classificazione in grado di prevedere il produttore del vino, basandosi sulle sue caratteristiche chimiche.<br>
-Prima di costruire il modello, è stata condotta un'analisi dei dati per comprendere le caratteristiche del dataset. In particolare, sono state esaminate le distribuzioni delle features e le correlazioni tra di esse.
-Come modello di classificazione, è stato utilizzato il *Random Forest*, ottimizzando gli iperparametri attraverso la tecnica di GridSearchCV, così ottenendo ottimi risultati.
+Prima di costruire il modello sono state esaminate le distribuzioni delle features e le correlazioni tra di esse.
+Come modello di classificazione, è stato utilizzato il *Random Forest*, ottimizzando gli iperparametri attraverso la tecnica di GridSearchCV, ottenendo così ottimi risultati.
 
 #
 
