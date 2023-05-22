@@ -12,16 +12,13 @@ Abbiamo applicato diversi algoritmi di classificazione, come *Logistic Regressio
 
 #
 
-<img align="left" width="250" height="150" src="Images/wine2.jpg">**[Wine](https://github.com/danilorusso08/Wine)**
+<img align="left" width="250" height="150" src="Images/wine2.jpg">**[Chi produce il Vino?](https://github.com/danilorusso08/Wine)**
 
-Nel progetto, abbiamo costruito un modello di classificazione per prevedere il produttore di vino tra tre produttori diversi, basandoci sulle caratteristiche chimiche del vino.<br><br>
-Prima di costruire il modello, abbiamo effettuato un'analisi dei dati per comprendere le caratteristiche del dataset. In particolare, abbiamo visualizzato le distribuzioni delle feature e le correlazioni tra di esse.<br>
-Il modello di classificazione scelto è il RandomForestClassifier e per ottimizzarne le prestazioni, abbiamo eseguito il tuning degli iperparametri tramite la tecnica di GridSearchCV.<br><br>
-
-Grazie all'implementazione di questo modello di classificazione, siamo stati in grado di ottenere previsioni accurate per ciascuna variante nel dataset.<br>
+L'obiettivo di questo progetto è costruire un modello di classificazione in grado di prevedere il produttore del vino, basandosi sulle sue caratteristiche chimiche.<br>
+Prima di costruire il modello, è stata condotta un'analisi dei dati per comprendere le caratteristiche del dataset. In particolare, sono state esaminate le distribuzioni delle features e le correlazioni tra di esse.
+Come modello di classificazione, è stato utilizzato il *Random Forest*, ottimizzando gli iperparametri attraverso la tecnica di GridSearchCV, così ottenendo ottimi risultati.
 
 #
-
 
 <img align="left" width="250" height="150" src="Images/Employee_happiness.webp">**[World Happiness Report - The Human Freedom Index](https://github.com/danilorusso08/World_Happiness__Freedom)**
 
