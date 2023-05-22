@@ -8,7 +8,7 @@ Questo Portfolio contiene tutti i miei progetti di Data Science e Data Analysis,
 <img align="left" width="250" height="150" src="Images/acqua2.jpg">**[Analisi Acqua Potabile](https://github.com/danilorusso08/Analisi_Acqua_Potabile)**
 
 In questo progetto, l'obiettivo è quello di costruire un modello predittivo per determinare la potabilità dell'acqua in base alle sue caratteristiche chimiche.<br>
-Sono stati applicati diversi modelli di classificazione Logistic Regression, Random Forest, k-nearest Neighbors, Gradient Boosting e Decision Tree utilizzando due diversi approcci al fine di ottenere il miglior modello possibile con i dati a nostra disposizione.
+Sono stati applicati diversi algoritmi di classificazione come *Logistic Regression, Random Forest, k-nearest Neighbors, Gradient Boosting e Decision Tree* utilizzando due diversi approcci al fine di ottenere il miglior modello possibile con i dati a nostra disposizione.
 
 #
 
