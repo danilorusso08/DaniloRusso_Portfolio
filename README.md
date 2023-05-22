@@ -22,8 +22,7 @@ Come modello di classificazione, è stato utilizzato il *Random Forest*, ottimiz
 <a href="https://github.com/danilorusso08/World_Happiness__Freedom"><img align="left" width="250" height="150" src="Images/Employee_happiness.webp"></a>**[Analisi sulla felicità e libertà nel mondo](https://github.com/danilorusso08/World_Happiness__Freedom)**
 
 In questo progetto, ci concentreremo sull'analisi dei fattori principali che influenzano il livello di felicità in uno stato, utilizzando il World Happiness Report. Inoltre, utilizzeremo i dati forniti dallo Human Freedom Index per valutare il grado di libertà esistente nel mondo.
-Infine, combineremo e manipoleremo i diversi dataset, al fine di identificare correlazioni tra felicità e libertà.<br>
-Per questo progetto, faremo uso di diverse librerie, tra cui *pandas, matplotlib, seaborn e plotly*.<br>
+Infine, combineremo e manipoleremo i diversi dataset, al fine di identificare correlazioni tra felicità e libertà.
 
 #
 
