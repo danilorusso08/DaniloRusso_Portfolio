@@ -38,4 +38,4 @@ Script Python che iteri in ordine alfabetico sui file della cartella files e, a 
 ## Competenze
 
 - **Linguaggi**: Python (Pandas, Numpy, Scikit-Learn, Scipy, Matplotlib, Seaborn, Plotly), SQL, Javascript
-- **Tools**: Git, MS Exce, Officel
+- **Tools**: Git, MS Excel, Office
