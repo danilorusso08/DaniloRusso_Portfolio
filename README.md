@@ -1,4 +1,4 @@
-# Data Science Portfolio - Danilo Russo
+# Portfolio - Danilo Russo
 Questo Portfolio contiene tutti i miei progetti di Data Science e Data Analysis, svolti durante il master in Data Science di Start2Impact più altri progetti personali svolti con lo scopo di migliorare le mie capacità e conoscenze.
 
 - **Email**: [danilo08russo@gmail.com](danilo08russo@gmail.com)
